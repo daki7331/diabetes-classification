@@ -95,3 +95,15 @@ diabetes-classification/
 - Improve model performance through feature selection.
 - Experiment with ensemble methods.
 - Deploy the trained model as a web application.
+
+## Results
+
+The final model was evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
+
+The notebook compares multiple machine learning models and selects the best-performing one.
