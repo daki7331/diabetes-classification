@@ -85,7 +85,6 @@ diabetes-classification/
 ├── diabetes_classification.ipynb
 ├── README.md
 ├── requirements.txt
-└── images/
 ```
 
 ---
